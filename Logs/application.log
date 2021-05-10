@@ -1,0 +1,13 @@
+2021-04-23 12:02:18 DEBUG Empieza el programa
+2021-04-23 12:02:25 DEBUG Carga la imagen #1
+2021-04-23 12:02:26 DEBUG Se carga imagen #1 al 100%
+2021-04-23 12:02:26 DEBUG Se carga imagen #1 al 50%
+2021-04-23 12:02:26 DEBUG Se carga imagen #1 al 0%
+2021-04-23 12:02:49 DEBUG Carga la imagen #2
+2021-04-23 12:02:49 DEBUG Se carga imagen #2 al 0%
+2021-04-23 12:02:49 DEBUG Se carga imagen #2 al 50%
+2021-04-23 12:02:49 DEBUG Se carga imagen #2 al 100%
+2021-04-23 12:02:57 DEBUG Cargan las dos imagenes
+2021-04-23 12:02:57 DEBUG Se carga imagen #1 al 100%
+2021-04-23 12:02:58 DEBUG Se carga imagen #1 y #2 al 50% cada una
+2021-04-23 12:02:58 DEBUG Se carga imagen #2 al 100%
